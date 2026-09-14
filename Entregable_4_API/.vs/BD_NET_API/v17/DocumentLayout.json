@@ -1,0 +1,120 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\miler\\source\\repos\\BD_NET_API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6B840655-F9F0-47D0-A810-403B7037385F}|PedidosAPI\\PedidosAPI.csproj|c:\\users\\miler\\source\\repos\\bd_net_api\\pedidosapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B840655-F9F0-47D0-A810-403B7037385F}|PedidosAPI\\PedidosAPI.csproj|solutionrelative:pedidosapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B840655-F9F0-47D0-A810-403B7037385F}|PedidosAPI\\PedidosAPI.csproj|c:\\users\\miler\\source\\repos\\bd_net_api\\pedidosapi\\data\\dapper\\pedidodetalledapperrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B840655-F9F0-47D0-A810-403B7037385F}|PedidosAPI\\PedidosAPI.csproj|solutionrelative:pedidosapi\\data\\dapper\\pedidodetalledapperrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B840655-F9F0-47D0-A810-403B7037385F}|PedidosAPI\\PedidosAPI.csproj|c:\\users\\miler\\source\\repos\\bd_net_api\\pedidosapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6B840655-F9F0-47D0-A810-403B7037385F}|PedidosAPI\\PedidosAPI.csproj|solutionrelative:pedidosapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B840655-F9F0-47D0-A810-403B7037385F}|PedidosAPI\\PedidosAPI.csproj|c:\\users\\miler\\source\\repos\\bd_net_api\\pedidosapi\\domain\\models\\pedidodetalle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B840655-F9F0-47D0-A810-403B7037385F}|PedidosAPI\\PedidosAPI.csproj|solutionrelative:pedidosapi\\domain\\models\\pedidodetalle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B840655-F9F0-47D0-A810-403B7037385F}|PedidosAPI\\PedidosAPI.csproj|c:\\users\\miler\\source\\repos\\bd_net_api\\pedidosapi\\data\\dapper\\sqldapperbd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B840655-F9F0-47D0-A810-403B7037385F}|PedidosAPI\\PedidosAPI.csproj|solutionrelative:pedidosapi\\data\\dapper\\sqldapperbd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B840655-F9F0-47D0-A810-403B7037385F}|PedidosAPI\\PedidosAPI.csproj|c:\\users\\miler\\source\\repos\\bd_net_api\\pedidosapi\\data\\dapper\\isqldapperbd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B840655-F9F0-47D0-A810-403B7037385F}|PedidosAPI\\PedidosAPI.csproj|solutionrelative:pedidosapi\\data\\dapper\\isqldapperbd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 144,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PedidoDetalleDapperRepository.cs",
+              "DocumentMoniker": "C:\\Users\\miler\\source\\repos\\BD_NET_API\\PedidosAPI\\Data\\Dapper\\PedidoDetalleDapperRepository.cs",
+              "RelativeDocumentMoniker": "PedidosAPI\\Data\\Dapper\\PedidoDetalleDapperRepository.cs",
+              "ToolTip": "C:\\Users\\miler\\source\\repos\\BD_NET_API\\PedidosAPI\\Data\\Dapper\\PedidoDetalleDapperRepository.cs",
+              "RelativeToolTip": "PedidosAPI\\Data\\Dapper\\PedidoDetalleDapperRepository.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAmwE0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-11T02:50:48.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SQLDapperBD.cs",
+              "DocumentMoniker": "C:\\Users\\miler\\source\\repos\\BD_NET_API\\PedidosAPI\\Data\\Dapper\\SQLDapperBD.cs",
+              "RelativeDocumentMoniker": "PedidosAPI\\Data\\Dapper\\SQLDapperBD.cs",
+              "ToolTip": "C:\\Users\\miler\\source\\repos\\BD_NET_API\\PedidosAPI\\Data\\Dapper\\SQLDapperBD.cs",
+              "RelativeToolTip": "PedidosAPI\\Data\\Dapper\\SQLDapperBD.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-11T02:44:03.329Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ISQLDapperBD.cs",
+              "DocumentMoniker": "C:\\Users\\miler\\source\\repos\\BD_NET_API\\PedidosAPI\\Data\\Dapper\\ISQLDapperBD.cs",
+              "RelativeDocumentMoniker": "PedidosAPI\\Data\\Dapper\\ISQLDapperBD.cs",
+              "ToolTip": "C:\\Users\\miler\\source\\repos\\BD_NET_API\\PedidosAPI\\Data\\Dapper\\ISQLDapperBD.cs",
+              "RelativeToolTip": "PedidosAPI\\Data\\Dapper\\ISQLDapperBD.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-10T04:42:51.949Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PedidoDetalle.cs",
+              "DocumentMoniker": "C:\\Users\\miler\\source\\repos\\BD_NET_API\\PedidosAPI\\Domain\\Models\\PedidoDetalle.cs",
+              "RelativeDocumentMoniker": "PedidosAPI\\Domain\\Models\\PedidoDetalle.cs",
+              "ToolTip": "C:\\Users\\miler\\source\\repos\\BD_NET_API\\PedidosAPI\\Domain\\Models\\PedidoDetalle.cs",
+              "RelativeToolTip": "PedidosAPI\\Domain\\Models\\PedidoDetalle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-10T03:06:13.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\miler\\source\\repos\\BD_NET_API\\PedidosAPI\\Program.cs",
+              "RelativeDocumentMoniker": "PedidosAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\miler\\source\\repos\\BD_NET_API\\PedidosAPI\\Program.cs",
+              "RelativeToolTip": "PedidosAPI\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAADwvx0AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-10T04:26:27.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\miler\\source\\repos\\BD_NET_API\\PedidosAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "PedidosAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\miler\\source\\repos\\BD_NET_API\\PedidosAPI\\appsettings.json",
+              "RelativeToolTip": "PedidosAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-09-10T03:42:18.598Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

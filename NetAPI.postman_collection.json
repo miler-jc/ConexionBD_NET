@@ -1,0 +1,109 @@
+{
+  "info": {
+    "_postman_id": "e47cdb21-ef03-489a-900c-7b95734e6699",
+    "name": "NetAPI",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+    "_exporter_id": "26154194"
+  },
+  "item": [
+    {
+      "name": "Pedidos",
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": {
+          "raw": "https://localhost:7098/api/pedidodetalle",
+          "protocol": "https",
+          "host": [
+            "localhost"
+          ],
+          "port": "7098",
+          "path": [
+            "api",
+            "pedidodetalle"
+          ]
+        }
+      },
+      "response": []
+    },
+    {
+      "name": "NuevoPedido",
+      "request": {
+        "method": "POST",
+        "header": [],
+        "body": {
+          "mode": "raw",
+          "raw": "{\r\n  \"Cliente\": \"Ana M.\",\r\n  \"NombreProducto\": \"Teclado\",\r\n  \"Cantidad\": 5,\r\n  \"PrecioUnitario\": 30.5\r\n}\r\n",
+          "options": {
+            "raw": {
+              "language": "json"
+            }
+          }
+        },
+        "url": {
+          "raw": "https://localhost:7098/api/insertarpedido",
+          "protocol": "https",
+          "host": [
+            "localhost"
+          ],
+          "port": "7098",
+          "path": [
+            "api",
+            "insertarpedido"
+          ]
+        }
+      },
+      "response": []
+    },
+    {
+      "name": "ActualizarPedido",
+      "request": {
+        "method": "PUT",
+        "header": [],
+        "body": {
+          "mode": "raw",
+          "raw": "{\r\n  \"OrdenID\": 7,\r\n  \"Cliente\": \"Ana M.\",\r\n  \"NombreProducto\": \"Teclado\",\r\n  \"Cantidad\": 5,\r\n  \"PrecioUnitario\": 30.5\r\n}\r\n\r\n",
+          "options": {
+            "raw": {
+              "language": "json"
+            }
+          }
+        },
+        "url": {
+          "raw": "https://localhost:7098/api/actualizarpedido",
+          "protocol": "https",
+          "host": [
+            "localhost"
+          ],
+          "port": "7098",
+          "path": [
+            "api",
+            "actualizarpedido"
+          ]
+        }
+      },
+      "response": []
+    },
+    {
+      "name": "EliminarPedido",
+      "request": {
+        "method": "DELETE",
+        "header": [],
+        "url": {
+          "raw": "https://localhost:7098/api/eliminarpedido/8",
+          "protocol": "https",
+          "host": [
+            "localhost"
+          ],
+          "port": "7098",
+          "path": [
+            "api",
+            "eliminarpedido",
+            "8"
+          ]
+        }
+      },
+      "response": []
+    }
+  ]
+}
